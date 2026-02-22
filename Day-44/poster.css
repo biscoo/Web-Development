@@ -1,0 +1,19 @@
+    #socrates {
+      width: 50%;
+      border: 10px solid gold;
+      padding: 20p;
+      margin-left: 25%;
+      margin-top: 10%;
+    }
+
+    h1 {
+      color: gold;
+      font-size: 3rem;
+      text-align: center;
+      text-transform: uppercase;
+      font-family: "Libre Baskerville", serif;
+    }
+    p {
+      color: wheat;
+      text-align: center;
+    }
